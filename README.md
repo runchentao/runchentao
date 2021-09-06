@@ -1,7 +1,5 @@
 - 👋 Hi, I’m **@runchentao**
-- 👀 I’m interested in **Web Development**, **Autonomous Driving Technology**, **NFTs**
-- 🌱 I’m currently learning **MERN** stack, **TypeScript**, **Aspect-oriented Programming**
-- 💞️ I’m looking to collaborate on **TypeScript** projects
+- 👀 I’m interested in **Web Development**
 - 📫 How to reach me **runchentao@gmail.com**
 
 <!---
