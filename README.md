@@ -1,5 +1,4 @@
 - 👋 Hi, I’m **@runchentao**
-- 👀 I’m interested in **Web Development**
 - 📫 How to reach me **runchentao@gmail.com**
 
 <!---
