@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **@runchentao**
 - 📫 How to reach me **runchentao@gmail.com**
-- ✨ I'm currently working on an Andoird mobile app project within a team of 4 graduate students.
 
 <!---
 runchentao/runchentao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
